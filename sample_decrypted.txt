@@ -1,0 +1,26 @@
+CONFIDENTIAL - EMPLOYEE SALARY RECORD
+======================================
+
+Company: Horizon Trading Co.
+Department: Finance
+Prepared by: HR Office
+Date: 2026-06-26
+
+Employee ID: EMP-1042
+Name: Amina Hassan
+Position: Senior Accountant
+Monthly Salary: $2,450.00
+Bank Account: SO99-XXXX-XXXX-7741
+National ID: SOM-90234871
+
+Employee ID: EMP-1043
+Name: Ali Warsame
+Position: Procurement Officer
+Monthly Salary: $1,980.00
+Bank Account: SO99-XXXX-XXXX-3320
+National ID: SOM-90234902
+
+Notes:
+This document contains private salary and banking information.
+It must not be shared outside the Finance Department.
+Unauthorized disclosure may lead to identity theft or financial fraud.
